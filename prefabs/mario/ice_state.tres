@@ -2,7 +2,7 @@
 
 [ext_resource type="SpriteFrames" uid="uid://dqkh0gb25scje" path="res://modules/ice/prefabs/mario/ice.tres" id="1_j8tfo"]
 [ext_resource type="Script" path="res://engine/scripts/resources/player_state_data/player_state_data.gd" id="1_xxw65"]
-[ext_resource type="Resource" uid="uid://dkr3ph2e4aw48" path="res://modules/base/objects/mario/prefabs/big_state.tres" id="2_15eil"]
+[ext_resource type="Resource" uid="uid://dkr3ph2e4aw48" path="res://engine/objects/mario/prefabs/big_state.tres" id="2_15eil"]
 [ext_resource type="Script" path="res://modules/ice/ice_flower/ice_action.gd" id="2_upte4"]
 
 [resource]

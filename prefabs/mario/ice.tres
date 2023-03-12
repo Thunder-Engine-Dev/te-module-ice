@@ -2,7 +2,7 @@
 
 [ext_resource type="Texture2D" uid="uid://k58vm7mky5ub" path="res://modules/ice/prefabs/mario/IceAppear.png" id="1_s4nvd"]
 [ext_resource type="Texture2D" uid="uid://c36dij4dty3bt" path="res://modules/ice/prefabs/mario/IceClimb.png" id="1_swfio"]
-[ext_resource type="Texture2D" uid="uid://b1bka4okkj0bm" path="res://modules/base/objects/mario/textures/mario/Dead.png" id="2_2au88"]
+[ext_resource type="Texture2D" uid="uid://b1bka4okkj0bm" path="res://engine/objects/mario/textures/mario/Dead.png" id="2_2au88"]
 [ext_resource type="Texture2D" uid="uid://dytgbk5waed2s" path="res://modules/ice/prefabs/mario/IceCrouch.png" id="2_vo0ev"]
 [ext_resource type="Texture2D" uid="uid://cvqplbqim4apv" path="res://modules/ice/prefabs/mario/IceWalking.png" id="4_o5r0n"]
 [ext_resource type="Texture2D" uid="uid://dgdhr6j5wah2y" path="res://modules/ice/prefabs/mario/IceJump.png" id="5_clc4u"]
